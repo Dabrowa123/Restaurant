@@ -1,0 +1,19 @@
+﻿.main-jumbotron {
+  margin-bottom: 0; }
+  .main-jumbotron h1 {
+    text-align: center;
+    color: green; }
+
+.main-nav {
+  min-height: 50px;
+  background-color: black;
+  margin: 0; }
+
+.foo {
+  min-height: 50px;
+  background-color: black;
+  margin: 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%; }
+

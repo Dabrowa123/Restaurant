@@ -1,0 +1,28 @@
+﻿@import "Variables";
+@import "Mixins";
+@import "bootstrap/_variables.scss";
+
+
+.main-jumbotron {
+    margin-bottom: 0;
+
+    h1 {
+        text-align: center;
+        color: green;
+    }
+}
+
+.main-nav {
+    min-height: $barH;
+    background-color: $base-color;
+    margin: 0;
+}
+
+.foo {
+    min-height: $barH;
+    background-color: $base-color;
+    margin: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
